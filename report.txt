@@ -1,1 +1,1 @@
-sleepers 60
+calories 61
